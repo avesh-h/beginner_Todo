@@ -1,0 +1,11 @@
+.mainInput{
+    padding: 15px 0;
+}
+.input{
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid #ccc;
+}
+.labelText{
+    font-size: 1rem;
+}

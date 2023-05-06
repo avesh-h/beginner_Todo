@@ -1,0 +1,10 @@
+.main {
+  text-align: center;
+}
+textarea {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.input{
+  padding: 10px 0;
+}
